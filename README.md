@@ -1,2 +1,1 @@
-# Nodejs
-Node JS learning
+# Node.js: Getting Started
